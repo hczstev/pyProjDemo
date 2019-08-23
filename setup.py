@@ -8,6 +8,6 @@ setup(
     long_description="It is a python project demo",
     install_description=[],
     setup_requires=["pytest-runner"],
-    tests_require=["pytest"],
+    tests_require=["pytest", "pytest-cov"],
     # Other useful parameters: py_modules, cmdclass, include_package_data...
 )

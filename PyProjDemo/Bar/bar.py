@@ -1,3 +1,5 @@
-def barfunc(var):
-    print("calling bar")
-    return 0
+def timesTwo(var):
+    return var * 2
+
+def notTest():
+    pass
